@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Olá, eu sou o Antonio Carlos 👋🏼  
 🚀 Desenvolvedor Web focado em aplicações **em tempo real**<br>
