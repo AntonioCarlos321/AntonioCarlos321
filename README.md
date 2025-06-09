@@ -44,7 +44,6 @@ Sistema moderno de comunicação, desenvolvido com **Node.js**, **WebSocket** e 
 - 🌐 Portfólio: *em breve*
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioCarlos321/AntonioCarlos321/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioCarlos321/AntonioCarlos321/output/github-snake.svg" />
