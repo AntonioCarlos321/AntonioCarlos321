@@ -1,10 +1,10 @@
 
 
 # Olá, eu sou o Antonio Carlos 👋🏼  
-🚀 Desenvolvedor Full Stack focado em aplicações **em tempo real**<br>
-🧠 Apaixonado por **tecnologia, código limpo e soluções inteligentes**<br>
-💻 Experiência com projetos usando **WebSocket**, **Node.js**, **JavaScript**, **React**, **PHP** e **MySQL**<br>
-🎨 Criação de interfaces modernas com **HTML, CSS e TailwindCSS**  
+🚀 Desenvolvedor Web com foco em aplicações **em tempo real** e experiências interativas<br>
+🧠 Apaixonado por **tecnologia, inovação e código limpo**<br>
+💻 Trabalho com **WebSocket, JavaScript, Node.js, React, PHP, MySQL, HTML e CSS**<br>
+🎨 Interfaces modernas com **TailwindCSS**, responsividade e performance  
 
 ---
 
@@ -27,8 +27,8 @@
 # 🚀 Projeto em Destaque
 
 ### 💬 Chat em Tempo Real  
-Sistema de chat completo, com **JavaScript, Node.js e WebSocket**, permitindo comunicação instantânea entre usuários.  
-> 🔐 Login seguro | 💬 Mensagens em tempo real | 🖥️ Interface com HTML, CSS e TailwindCSS
+Sistema moderno de comunicação, desenvolvido com **Node.js**, **WebSocket** e **JavaScript**, com foco em interatividade e performance.  
+> ⚡ Comunicação instantânea | 🔒 Login seguro | 🎨 UI com HTML, CSS e TailwindCSS
 
 ---
 
@@ -41,12 +41,13 @@ Sistema de chat completo, com **JavaScript, Node.js e WebSocket**, permitindo co
 
 # 📫 Entre em contato
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 - 📧 Email: [juninho_batista5@hotmail.com](mailto:juninho_batista5@hotmail.com)
 - 🌐 Portfólio: *em breve*
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioCarlos321/AntonioCarlos321/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioCarlos321/AntonioCarlos321/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AntonioCarlos321/AntonioCarlos321/output/github-snake.svg" />
+</picture>
