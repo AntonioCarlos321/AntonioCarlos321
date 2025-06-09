@@ -1,7 +1,7 @@
 
 
 # Olá, eu sou o Antonio Carlos 👋🏼  
-🚀 Desenvolvedor Web focado em aplicações **em tempo real**<br>
+🚀 Desenvolvedor Full Stack focado em aplicações **em tempo real**<br>
 🧠 Apaixonado por **tecnologia, código limpo e soluções inteligentes**<br>
 💻 Experiência com projetos usando **WebSocket**, **Node.js**, **JavaScript**, **React**, **PHP** e **MySQL**<br>
 🎨 Criação de interfaces modernas com **HTML, CSS e TailwindCSS**  
