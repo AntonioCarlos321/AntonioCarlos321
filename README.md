@@ -33,7 +33,8 @@ Sistema moderno de comunicação, desenvolvido com **Node.js**, **WebSocket** e 
 
 # 📊 GitHub Stats
 
-![AntonioCarlos321 GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioCarlos321&show_icons=true&theme=react&hide=prs,issues)  
+[![AntonioCarlos321 GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioCarlos321&show_icons=true&theme=react&hide=prs,issues)  ](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCarlos321&layout=compact&theme=react
+)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCarlos321&layout=compact&theme=react)
 
 ---
